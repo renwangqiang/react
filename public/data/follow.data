@@ -1,0 +1,41 @@
+[
+    {   
+        "id":"1",
+        "img":"/images/j-c01.jpg",
+        "img2":"/images/j-c02.jpg",
+        "title":" 越南进口白肉火龙果  ",
+        "miaoshu":"外皮红艳，果肉绵软白嫩，汁液丰富，富含维生素C.",
+        "num":"2",
+        "people":"3人团",
+        "ke":"700g~800g",
+        "price":"¥14.00",
+        "oldprice":"原价:￥16.80",   
+        "zhe":"2.5折"
+    },
+    {   
+        "id":"2",
+        "img":"/images/j-c01.jpg",
+        "img2":"/images/j-c02.jpg",
+        "title":" 越南进口白肉火龙果  ",
+        "miaoshu":"外皮红艳，果肉绵软白嫩，汁液丰富，富含维生素C.",
+        "num":"2",
+        "people":"3人团",
+        "ke":"700g~800g",
+        "price":"¥14.00",
+        "oldprice":"原价:￥16.80",   
+        "zhe":"2.5折"
+    },
+    {   
+        "id":"3",
+        "img":"/images/j-c01.jpg",
+        "img2":"/images/j-c02.jpg",
+        "title":" 越南进口白肉火龙果  ",
+        "miaoshu":"外皮红艳，果肉绵软白嫩，汁液丰富，富含维生素C.",
+        "num":"2",
+        "people":"3人团",
+        "ke":"700g~800g",
+        "price":"¥14.00",
+        "oldprice":"原价:￥16.80",   
+        "zhe":"2.5折"
+    }
+]
